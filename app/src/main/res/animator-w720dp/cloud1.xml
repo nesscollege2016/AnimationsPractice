@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:duration="7000"
+        android:propertyName="translationX"
+        android:valueFrom="-1000"
+        android:valueTo="2000"
+        android:repeatMode="restart"
+        android:repeatCount="infinite"
+        />
+</set>
